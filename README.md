@@ -1,4 +1,4 @@
 # Java
 
-Student ID: 22020001
-School: University of FUKUOKA Design and Technology
+Student ID: 22020001<br>
+School: Professional training college of [FUKUOKA Design and Technology](https://www.fca.ac.jp)
