@@ -1,18 +1,17 @@
-## Getting Started
+## How to run the game.
+1. Download [XOGame.jar](./XOGame.jar) file.
+2. Download [run.bat](./run.bat) file.
+3. Open run.bat file with any text editor.
+4. Change the path of the java/bin folder in the run.bat file.
+5. Save the run.bat file.
+6. Double click on the run.bat file.
+7. Enjoy the game.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## ゲームの実行方法
+1. [XOGame.jar](./XOGame.jar) ファイルをダウンロードします。
+2. [run.bat](./run.bat) ファイルをダウンロードします。
+3. run.bat ファイルを任意のテキストエディタで開きます。
+4. run.bat ファイル内の java/bin フォルダのパスを変更します。
+5. run.bat ファイルを保存します。
+6. run.bat ファイルをダブルクリックします。
+7. ゲームをお楽しみください。
