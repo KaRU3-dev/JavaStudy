@@ -162,6 +162,11 @@ public class Game {
 
         // Show the final board
         ShowFields();
+
+        // Set the game start flag to false
+        gameData.isGameStart = false;
+        // Close the scanner
+        scanner.close();
     }
 
     /**
