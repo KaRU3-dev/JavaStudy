@@ -1,4 +1,5 @@
 # Maze Game
+作成する際に、[こちら](https://chatgpt.com/share/0a726bf7-265a-4a86-a0e9-e33608587a18)のプロンプトを使用しました。
 
 ## How to play
 1. Download [MazeGame.jar](./MazeGame.jar)
