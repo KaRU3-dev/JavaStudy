@@ -1,18 +1,22 @@
-## Getting Started
+# RPG Game
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Requirements:
 
-## Folder Structure
+- OpenJDK 22.x
+- No build tools
 
-The workspace contains two folders by default, where:
+# How to run
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+1. Download [jar](Task_20240831_22020001_RPG_2.jar) and [run.bat](run.bat).
+2. If you require a different version of Java, you can download it from [here](https://jdk.java.net/archive/).
+3. Edit `run.bat` and replace `JAVA_HOME=/path/to/java/bin` with the path to your Java Development Kit installation.
+4. Save and run `run.bat`.
+5. Enjoy the game!
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+# 実行の仕方
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+1. [jar](Task_20240831_22020001_RPG_2.jar) と [run.bat](run.bat) をダウンロードします。
+2. 別のバージョンの Java が必要な場合は、[こちら](https://jdk.java.net/archive/)からダウンロードしてください。
+3. `run.bat` を開き、`JAVA_HOME=/path/to/java/bin` を Java Development Kit のインストール先のパスに置き換えます。
+4. 保存して `run.bat` を実行します。
+5. ゲームをお楽しみください！
