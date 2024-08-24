@@ -7,6 +7,6 @@ public class Task_20240831_22020001_RPG_2 {
         GameSystem gameSystem = new GameSystem(GameDifficulty.NORMAL);
 
         // Start game
-        gameSystem.Game();
+        gameSystem.Run();
     }
 }
