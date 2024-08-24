@@ -3,7 +3,7 @@ package game;
 import game.map.Map;
 import game.players.Player;
 
-public class Game {
+public class Minesweeper {
 
     public static int mapWidth = 32;
     public static int mapHeight = 32;
