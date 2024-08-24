@@ -5,7 +5,7 @@ import java.util.Scanner;
  * 問題
  *     乱数生成とif文を使用してガチャプログラムを作成してみてください。
  */
-public class App {
+public class Task_20240420_22020001 {
 
     public static boolean IsRunning = false;
     public static int Rarity = 6;
@@ -66,7 +66,7 @@ public class App {
      * レアリティの星を生成する
      * @param value
      * @return String
-     * @throws Exception 
+     * @throws Exception
      */
     public static String RarityStarGenerator(int value) throws Exception {
         switch (value) {
