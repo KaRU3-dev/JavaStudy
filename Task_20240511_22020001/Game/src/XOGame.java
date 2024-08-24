@@ -4,7 +4,7 @@ import java.util.Scanner;
 /**
  * The Game class represents a game instance.
  */
-public class Game {
+public class XOGame {
 
     public RpsSystem rpsSystem = new RpsSystem();
     public GameData gameData = new GameData();
