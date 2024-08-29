@@ -48,7 +48,7 @@ public class GameSystem {
         return difficulty;
     }
 
-    public void Game() {
+    public void Run() {
         // Print welcome message
         System.out.println("Welcome to the game!");
         System.out.print("Input your name: ");

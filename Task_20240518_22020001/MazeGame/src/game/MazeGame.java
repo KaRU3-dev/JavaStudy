@@ -1,13 +1,15 @@
 package game;
+
 import java.util.Scanner;
 
 import maze.Maze;
 import player.Player;
 
 /**
- * The Game class represents the main game logic and controls the flow of the game.
+ * The Game class represents the main game logic and controls the flow of the
+ * game.
  */
-public class Game {
+public class MazeGame {
 
     private static Maze maze = new Maze();
     private static Player player = new Player();
